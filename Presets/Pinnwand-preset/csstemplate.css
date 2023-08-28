@@ -66,12 +66,12 @@
 }
 
 /* Margin. */
-.card-colums .card {
+.card-columns .card {
     margin-bottom: 1.25rem;
 }
 
 /* Display of cards. */
-.card-colums .card {
+.card-columns .card {
     display: inline-block;
     width: 100%;
 }
@@ -132,7 +132,7 @@
 
 /* List view. */
 @media screen and (min-width: 576px) {
-    .card-colums {
+    .card-columns {
         -webkit-column-count: 3;
         -moz-column-count: 3;
         column-count: 3;
